@@ -1,0 +1,37 @@
+[
+    
+    
+    
+    
+    {
+        "country":"US",
+        "var":"litercaryRate",
+        "value": 34
+    },
+    {
+        "country":"US",
+        "var":"povertyLevel",
+        "value": 27
+    },
+       {
+        "country":"UK",
+        "var":"litercaryRate",
+        "value": 87
+    },
+    {
+        "country":"UK",
+        "var":"povertyLevel",
+        "value": 13
+    },   {
+        "country":"Canada",
+        "var":"litercaryRate",
+        "value": 28
+    },
+    {
+        "country":"Canada",
+        "var":"povertyLevel",
+        "value": 74
+    }
+   
+    
+]
