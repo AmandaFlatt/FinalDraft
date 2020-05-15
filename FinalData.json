@@ -1,0 +1,63 @@
+[
+    
+    
+    {
+        "country":"Afghanistan",
+        "Poverty":54.5,
+        "NoEducaiton": 82.68,
+        "NoSchool": 41.00,
+        "LittercyRates": 29,
+        "OutOfSchool": 55
+    },
+    {
+        "country":"Mozambique",
+        "Poverty": 46.1,
+        "NoEducaiton": 81.51,
+        "NoSchool": 22.00,
+        "LittercyRates": 39,
+        "OutOfSchool": 38
+    },
+       {
+        "country":"Niger",
+        "Poverty": 45.4,
+        "NoEducaiton": 80.02,
+        "NoSchool": 52.00,
+        "LittercyRates": 18,
+        "OutOfSchool": 76
+    },
+    {
+        "country":"Sierra Leone",
+        "Poverty":70.2,
+        "NoEducaiton":69.14,
+        "NoSchool":19.00,
+        "LittercyRates": 57,
+        "OutOfSchool":25
+    }, 
+    
+    {
+        "country":"Senegal",
+        "Poverty":46.7,
+        "NoEducaiton":66.18,
+        "NoSchool":33,
+        "LittercyRates": 63,
+        "OutOfSchool":38
+    },
+    {
+        "country":"United States",
+        "Poverty": 15.0,
+        "NoEducaiton": 0.03,
+        "NoSchool": 0.03,
+        "LittercyRates": 99.9,
+        "OutOfSchool": 0.23
+    },
+      {
+        "country":"United Kingdom",
+        "Poverty": 15,
+        "PrimaryEducaiton": 48.8166008,
+        "NoEducaiton": 0.07,
+        "NoSchool": 0.07,
+        "LittercyRates": 99.9,
+        "OutOfSchool": 1.82
+    }
+    
+    ]
